@@ -74,10 +74,10 @@
   }
   
   .searchResults {
-    padding: 100px;
     display: grid;
     grid-template-columns: 100%;
     justify-items: center;
+    padding: 25px 100px 25px 100px;
   }
   
   .resultItem {
